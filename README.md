@@ -1,1 +1,1 @@
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=whitemithrandir&show_icons=true&theme=gradient)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whitemithrandir&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
