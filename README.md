@@ -4,6 +4,6 @@
 
 I'm working on **machine learning**.
 
-Mithrandir means Gandalf in Elvish. Gray Gandalf/Mithrandir disappeared in his deadly battle with his Balrog and he came back as White.
+Mithrandir means Gandalf in Elvish. Gray Gandalf/Mithrandir disappeared in his deadly battle with Balrog and he came back as White.
 
 
