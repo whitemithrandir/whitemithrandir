@@ -7,5 +7,3 @@ I'm working on **machine learning**.
 Mithrandir means Gandalf in Elvish. Gray Gandalf/Mithrandir disappeared in his deadly battle with his Balrog and he came back as White.
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whitemithrandir&theme=blue-green)]
-
