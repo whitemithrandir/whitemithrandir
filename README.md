@@ -8,3 +8,9 @@ I focus on solutions, not problems, with an inquiring, questioning and productiv
 Note: Mithrandir means Gandalf in Elvish. Gray Gandalf/Mithrandir disappeared in his deadly battle with Balrog and he came back as White.
 
 
+![](./profile-3d-contrib/profile-night-rainbow.svg) 
+  
+ <p> 
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=whitemithrandir&show_icons=true&theme=tokyonight" /> 
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=whitemithrandir&theme=tokyonight" /> 
+ </p>
