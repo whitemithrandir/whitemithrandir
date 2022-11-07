@@ -11,17 +11,17 @@ Machine Learning Specialization --> https://www.coursera.org/specializations/mac
 
 TensorFlow Developer Professional Certificate --> https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses
 
-            ○ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-            ○ Convolutional Neural Networks in TensorFlow
-            ○ Natural Language Processing in TensorFlow
-            ○ Sequences, Time Series and Prediction
+             ○ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+             ○ Convolutional Neural Networks in TensorFlow
+             ○ Natural Language Processing in TensorFlow
+             ○ Sequences, Time Series and Prediction
     
 Machine Learning Engineering for Production (MLOps) Specialization --> https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses
     
-           ○ Introduction to Machine Learning in Production
-           ○ Machine Learning Data Lifecycle in Production
-           ○ Machine Learning Modeling Pipelines in Production
-           ○ Deploying Machine Learning Models in Production
+            ○ Introduction to Machine Learning in Production
+            ○ Machine Learning Data Lifecycle in Production
+            ○ Machine Learning Modeling Pipelines in Production
+            ○ Deploying Machine Learning Models in Production
     
  
 Note: Mithrandir means Gandalf in Elvish. Gray Gandalf/Mithrandir disappeared in his deadly battle with Balrog and he came back as White.
