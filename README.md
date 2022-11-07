@@ -18,10 +18,10 @@ TensorFlow Developer Professional Certificate --> https://www.coursera.org/profe
     
 Machine Learning Engineering for Production (MLOps) Specialization --> https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses
     
-            ○ Introduction to Machine Learning in Production
-            ○ Machine Learning Data Lifecycle in Production
-            ○ Machine Learning Modeling Pipelines in Production
-            ○ Deploying Machine Learning Models in Production
+             ○ Introduction to Machine Learning in Production
+             ○ Machine Learning Data Lifecycle in Production
+             ○ Machine Learning Modeling Pipelines in Production
+             ○ Deploying Machine Learning Models in Production
     
  
 Note: Mithrandir means Gandalf in Elvish. Gray Gandalf/Mithrandir disappeared in his deadly battle with Balrog and he came back as White.
