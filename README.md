@@ -2,7 +2,7 @@
 
 I focus on solutions, not problems, with an inquiring, questioning and productive mindset. I use my talents, skills and dreams to take my business to the next level. Machine learning is one of my biggest dreams, it gives me pleasure to work in this field, I try to discover my talents and improve my skills, I am happy to work with machine learning, I work with pleasure. While reading, I see that there are things I don't know, but that doesn't scare me!
 
-Many service tools are used in **machine learning**; I'm working on **tensorflow** developed by **Google**, I'm on the way to specialize in **Natural Language Processing**
+Many service tools are used in **machine learning**; I'm working on **tensorflow** developed by **Google**, I'm on the way to specialize in **Natural Language Processing** and **Time Series**
 
 My current roadmap; <p> 
 Machine Learning Specialization --> https://www.coursera.org/specializations/machine-learning-introduction
@@ -11,9 +11,10 @@ Machine Learning Specialization --> https://www.coursera.org/specializations/mac
              ✓ Advanced Learning Algorithms
              ○ Unsupervised Learning, Recommenders, Reinforcement Learning
     
-TensorFlow Developer Professional Certificate --> https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice <p>
+TensorFlow Developer Professional Certificate --> https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice and https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction <p>
     
              ○ Natural Language Processing in TensorFlow 
+             ○ Sequences, Time Series and Prediction
     
 Natural Language Processing Specialization --> https://www.coursera.org/specializations/natural-language-processing#courses
 
