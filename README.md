@@ -10,13 +10,17 @@ Machine Learning Specialization --> https://www.coursera.org/specializations/mac
              ✓ Supervised Machine Learning: Regression and Classification
              ✓ Advanced Learning Algorithms
              ○ Unsupervised Learning, Recommenders, Reinforcement Learning
+    
+TensorFlow Developer Professional Certificate --> https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice <p>
+    
+             ○ Natural Language Processing in TensorFlow 
+    
+Natural Language Processing Specialization --> https://www.coursera.org/specializations/natural-language-processing#courses
 
-TensorFlow Developer Professional Certificate --> https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses
-
-             ○ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-             ○ Convolutional Neural Networks in TensorFlow
-             ○ Natural Language Processing in TensorFlow
-             ○ Sequences, Time Series and Prediction
+             ○ Natural Language Processing with Classification and Vector Spaces
+             ○ Natural Language Processing with Probabilistic Models
+             ○ Natural Language Processing with Sequence Models
+             ○ Natural Language Processing with Attention Models
     
 Machine Learning Engineering for Production (MLOps) Specialization --> https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#courses
     
