@@ -9,7 +9,7 @@ Machine Learning Specialization --> https://www.coursera.org/specializations/mac
     
              ✓ Supervised Machine Learning: Regression and Classification
              ✓ Advanced Learning Algorithms
-             ○ Unsupervised Learning, Recommenders, Reinforcement Learning
+             ✓ Unsupervised Learning, Recommenders, Reinforcement Learning
     
 TensorFlow Developer Professional Certificate --> https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice and https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction <p>
     
