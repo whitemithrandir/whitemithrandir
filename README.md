@@ -38,8 +38,6 @@ Note: Mithrandir means Gandalf in Elvish. Gray Gandalf/Mithrandir disappeared in
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=whitemithrandir&theme=tokyonight" /> 
  </p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg) 
 
-  
-  <p align="center"<a href="#"><img alt="Ngoc Pham Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=whitemithrandir&theme=react-dark&hide_border=true&" /></a></p>
+
 
