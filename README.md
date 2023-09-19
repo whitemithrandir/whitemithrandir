@@ -30,7 +30,7 @@ Evolution of my expertise continues with:
 
 My growing skills form the constellation:
 
-🌟 LangChain · 📊 LLM · 🌐 Auto-GPT Virtuoso · 🎯 Recommender Maven · 🔍 Anomaly Detection Maestro · ⚙️ MLOps Enthusiast
+🌟 LangChain · 📊 LLM · 🌐 GenerativeAI · 🎯 Recommender Maven · 🔍 Anomaly Detection Maestro · ⚙️ MLOps Enthusiast
 
 The horizons of my expertise expand with each step, embracing the unknown with enthusiasm and courage.
  <p> 
